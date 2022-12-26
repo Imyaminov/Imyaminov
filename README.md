@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imyaminov&label=Profile%20views&color=0e75b6&style=flat" alt="imyaminov" /> </p>
 
-- 🔭 I’m currently working on [Blog Application](https://github.com/Imyaminov/blog-app-template-based.git)
+- 🔭 I’m currently working on [Flashcards Web Application](https://github.com/Imyaminov/flashcards-app)
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **Python, Django and PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Imyaminov](https://github.com/Imyaminov)
 
