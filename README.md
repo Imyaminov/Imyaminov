@@ -43,4 +43,3 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imyaminov&show_icons=true&locale=en" alt="imyaminov" /></p>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67f4c312beaed590a26ae7a7?variant=dark" alt="roadmap.sh"/></a>
